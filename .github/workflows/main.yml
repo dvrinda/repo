@@ -1,0 +1,9 @@
+name: My First Action
+
+on: [push]
+jobs:
+  test:
+    steps:
+      - name: 21f1001205@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
+      
